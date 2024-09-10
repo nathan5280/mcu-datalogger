@@ -3,3 +3,4 @@ mcu-datalogger-backups/*
 mcu-datalogger-gerber/*
 .DS_Store
 ~mcu-datalogger.kicad_sch.lck
+\#auto_saved_files\#

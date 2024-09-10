@@ -399,7 +399,16 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "b2bb5aae-37cb-469b-b2ad-029a82a8a54b",
+      "Root"
+    ],
+    [
+      "60d466a3-0b5b-47e7-9376-373e1db2a3de",
+      "Connectors"
+    ]
+  ],
   "text_variables": {
     "PROJECT_NAME": "MCU Datalogger  w/ memory and datalogger"
   }

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DS1227S")(type "KiCad")(uri "/Users/nate/Downloads/DS1337S_T_R/KiCADv6/DS1227S.kicad_sym")(options "")(descr ""))
+  (lib (name "ATMEGA328-AU")(type "KiCad")(uri "/Users/nate/Downloads/ATMEGA328_AU/KiCADv6/ATMEGA328-AU.kicad_sym")(options "")(descr ""))
+)
