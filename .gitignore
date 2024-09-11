@@ -4,3 +4,4 @@ mcu-datalogger-gerber/*
 .DS_Store
 ~mcu-datalogger.kicad_sch.lck
 \#auto_saved_files\#
+~mcu-datalogger.kicad_pcb.lck

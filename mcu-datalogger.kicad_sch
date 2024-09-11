@@ -2301,7 +2301,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal")
-		(at 273.05 73.66 0)
+		(at 260.35 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2310,7 +2310,7 @@
 		(fields_autoplaced yes)
 		(uuid "017291cc-e1e7-4f5d-a357-ee184ba78510")
 		(property "Reference" "Y2"
-			(at 273.05 66.04 0)
+			(at 260.35 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2318,15 +2318,15 @@
 			)
 		)
 		(property "Value" "16MHz"
-			(at 273.05 68.58 0)
+			(at 260.35 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 273.05 73.66 0)
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
+			(at 260.35 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2335,7 +2335,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 273.05 73.66 0)
+			(at 260.35 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2344,7 +2344,7 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
-			(at 273.05 73.66 0)
+			(at 260.35 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2353,7 +2353,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 273.05 73.66 0)
+			(at 260.35 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2378,7 +2378,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 250.19 20.32 0)
+		(at 237.49 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2387,7 +2387,7 @@
 		(fields_autoplaced yes)
 		(uuid "06c6d1ab-372d-4f29-8aae-00143587b5a8")
 		(property "Reference" "R6"
-			(at 252.73 19.0499 0)
+			(at 240.03 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2396,7 +2396,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 252.73 21.5899 0)
+			(at 240.03 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2404,8 +2404,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 248.412 20.32 90)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 235.712 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2414,7 +2414,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 250.19 20.32 0)
+			(at 237.49 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2423,7 +2423,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 250.19 20.32 0)
+			(at 237.49 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2432,7 +2432,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 250.19 20.32 0)
+			(at 237.49 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2457,7 +2457,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 125.73 59.69 0)
+		(at 105.41 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2466,7 +2466,7 @@
 		(fields_autoplaced yes)
 		(uuid "07aae13c-3810-4e85-866f-2861d1da80d5")
 		(property "Reference" "R2"
-			(at 128.27 58.4199 0)
+			(at 107.95 44.4499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2475,7 +2475,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 128.27 60.9599 0)
+			(at 107.95 46.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2483,8 +2483,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 123.952 59.69 90)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 103.632 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2493,7 +2493,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 59.69 0)
+			(at 105.41 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2502,7 +2502,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 125.73 59.69 0)
+			(at 105.41 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2511,7 +2511,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 125.73 59.69 0)
+			(at 105.41 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2562,7 +2562,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 260.35 156.21 0)
 			(effects
 				(font
@@ -2600,7 +2600,7 @@
 	)
 	(symbol
 		(lib_id "ATMEGA328-AU:ATMEGA328-AU")
-		(at 198.12 35.56 0)
+		(at 185.42 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2609,7 +2609,7 @@
 		(fields_autoplaced yes)
 		(uuid "17556cce-62c6-4854-bcaf-77982c501054")
 		(property "Reference" "U4"
-			(at 226.06 25.4 0)
+			(at 213.36 43.18 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -2617,15 +2617,15 @@
 			)
 		)
 		(property "Value" "ATMEGA328-AU"
-			(at 226.06 27.94 0)
+			(at 213.36 45.72 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "32A_ATM"
-			(at 198.12 35.56 0)
+		(property "Footprint" "footprints:ATMEGA328-AU"
+			(at 185.42 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2635,7 +2635,7 @@
 			)
 		)
 		(property "Datasheet" "ATMEGA328-AU"
-			(at 198.12 35.56 0)
+			(at 185.42 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2645,7 +2645,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 35.56 0)
+			(at 185.42 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2760,7 +2760,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal")
-		(at 45.72 68.58 0)
+		(at 25.4 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2769,7 +2769,7 @@
 		(fields_autoplaced yes)
 		(uuid "1badd107-a7ce-4326-b743-7ea0c2b043bb")
 		(property "Reference" "Y1"
-			(at 45.72 60.96 0)
+			(at 25.4 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2777,15 +2777,15 @@
 			)
 		)
 		(property "Value" "32.768 KHz"
-			(at 45.72 63.5 0)
+			(at 25.4 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 45.72 68.58 0)
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
+			(at 25.4 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2794,7 +2794,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 68.58 0)
+			(at 25.4 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2803,7 +2803,7 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
-			(at 45.72 68.58 0)
+			(at 25.4 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2812,7 +2812,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 45.72 68.58 0)
+			(at 25.4 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2837,7 +2837,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-LED:LED")
-		(at 267.97 43.18 90)
+		(at 255.27 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2846,7 +2846,7 @@
 		(fields_autoplaced yes)
 		(uuid "2cd0dea7-d932-49d0-b3f2-e1c7ba4b98af")
 		(property "Reference" "D2"
-			(at 271.78 43.4974 90)
+			(at 259.08 61.2774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2855,7 +2855,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 271.78 46.0374 90)
+			(at 259.08 63.8174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2863,8 +2863,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric"
-			(at 273.05 43.18 0)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 260.35 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2873,7 +2873,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 275.59 43.18 0)
+			(at 262.89 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2882,7 +2882,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 280.67 43.18 0)
+			(at 267.97 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2891,7 +2891,7 @@
 			)
 		)
 		(property "PROD_ID" "LED-"
-			(at 278.13 43.18 0)
+			(at 265.43 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2916,7 +2916,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 124.46 73.66 0)
+		(at 104.14 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2925,7 +2925,7 @@
 		(fields_autoplaced yes)
 		(uuid "2dfeb23a-fc40-4119-b8e7-efec5c0eba93")
 		(property "Reference" "R1"
-			(at 127 72.3899 0)
+			(at 106.68 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2934,7 +2934,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 127 74.9299 0)
+			(at 106.68 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2942,8 +2942,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 122.682 73.66 90)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 102.362 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2952,7 +2952,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 124.46 73.66 0)
+			(at 104.14 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2961,7 +2961,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 124.46 73.66 0)
+			(at 104.14 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2970,7 +2970,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 124.46 73.66 0)
+			(at 104.14 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2995,7 +2995,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:C")
-		(at 134.62 66.04 0)
+		(at 114.3 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3004,7 +3004,7 @@
 		(fields_autoplaced yes)
 		(uuid "398b93bc-78ba-4f3e-a1f9-15364c0156d1")
 		(property "Reference" "C1"
-			(at 138.43 62.2299 0)
+			(at 118.11 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3013,7 +3013,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 138.43 64.7699 0)
+			(at 118.11 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3021,8 +3021,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 135.5852 77.47 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 115.2652 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3031,7 +3031,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 135.89 82.55 0)
+			(at 115.57 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3040,7 +3040,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 134.62 85.09 0)
+			(at 114.3 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3049,7 +3049,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-00000"
-			(at 134.62 80.01 0)
+			(at 114.3 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3058,7 +3058,7 @@
 			)
 		)
 		(property "Voltage" "1kV"
-			(at 138.43 67.3099 0)
+			(at 118.11 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3067,7 +3067,7 @@
 			)
 		)
 		(property "Tolerance" "100%"
-			(at 138.43 69.8499 0)
+			(at 118.11 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3076,7 +3076,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 134.62 66.04 0)
+			(at 114.3 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3127,7 +3127,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
 			(at 100.33 147.32 0)
 			(effects
 				(font
@@ -3215,7 +3215,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 260.35 148.59 0)
 			(effects
 				(font
@@ -3253,7 +3253,7 @@
 	)
 	(symbol
 		(lib_id "DS1227S:DS1337S+T&R")
-		(at 66.04 64.77 0)
+		(at 45.72 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3262,7 +3262,7 @@
 		(fields_autoplaced yes)
 		(uuid "4c201719-9951-4d35-87ca-d2b48975be4f")
 		(property "Reference" "U2"
-			(at 91.44 54.61 0)
+			(at 71.12 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3270,15 +3270,15 @@
 			)
 		)
 		(property "Value" "DS1337S+T&R"
-			(at 91.44 57.15 0)
+			(at 71.12 43.18 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "21-0041B_8_MXM"
-			(at 66.04 64.77 0)
+		(property "Footprint" "footprints:DS1337S"
+			(at 45.72 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3288,7 +3288,7 @@
 			)
 		)
 		(property "Datasheet" "DS1337S+T&R"
-			(at 66.04 64.77 0)
+			(at 45.72 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3298,7 +3298,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 64.77 0)
+			(at 45.72 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3367,7 +3367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 168.402 147.32 90)
 			(effects
 				(font
@@ -3446,7 +3446,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
 			(at 60.96 147.32 0)
 			(effects
 				(font
@@ -3508,7 +3508,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:C")
-		(at 259.08 81.28 0)
+		(at 246.38 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3517,7 +3517,7 @@
 		(fields_autoplaced yes)
 		(uuid "7b685420-a88e-400a-affd-33caa5cda0ee")
 		(property "Reference" "C3"
-			(at 262.89 77.4699 0)
+			(at 250.19 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3526,7 +3526,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 262.89 80.0099 0)
+			(at 250.19 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3534,8 +3534,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 260.0452 92.71 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 247.3452 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3544,7 +3544,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 260.35 97.79 0)
+			(at 247.65 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3553,7 +3553,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 259.08 100.33 0)
+			(at 246.38 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3562,7 +3562,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-00000"
-			(at 259.08 95.25 0)
+			(at 246.38 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3571,7 +3571,7 @@
 			)
 		)
 		(property "Voltage" "1kV"
-			(at 262.89 82.5499 0)
+			(at 250.19 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3580,7 +3580,7 @@
 			)
 		)
 		(property "Tolerance" "100%"
-			(at 262.89 85.0899 0)
+			(at 250.19 102.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3589,7 +3589,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 259.08 81.28 0)
+			(at 246.38 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3614,7 +3614,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 162.56 66.04 90)
+		(at 149.86 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3623,7 +3623,7 @@
 		(fields_autoplaced yes)
 		(uuid "967aa862-76f1-4085-9006-f071abe25c11")
 		(property "Reference" "R3"
-			(at 162.56 59.69 90)
+			(at 149.86 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3631,15 +3631,15 @@
 			)
 		)
 		(property "Value" "330"
-			(at 162.56 62.23 90)
+			(at 149.86 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 162.56 67.818 90)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 149.86 85.598 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3648,7 +3648,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 66.04 0)
+			(at 149.86 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3657,7 +3657,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 162.56 66.04 0)
+			(at 149.86 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3666,7 +3666,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 162.56 66.04 0)
+			(at 149.86 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3717,7 +3717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 260.35 140.97 0)
 			(effects
 				(font
@@ -3755,7 +3755,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:C")
-		(at 260.35 64.77 0)
+		(at 247.65 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3764,7 +3764,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2c5971a-80e9-47dc-a600-0f6798a22ae2")
 		(property "Reference" "C4"
-			(at 264.16 60.9599 0)
+			(at 251.46 78.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3773,7 +3773,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 264.16 63.4999 0)
+			(at 251.46 81.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3781,8 +3781,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 261.3152 76.2 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 248.6152 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3791,7 +3791,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 261.62 81.28 0)
+			(at 248.92 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3800,7 +3800,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 260.35 83.82 0)
+			(at 247.65 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3809,7 +3809,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-00000"
-			(at 260.35 78.74 0)
+			(at 247.65 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3818,7 +3818,7 @@
 			)
 		)
 		(property "Voltage" "1kV"
-			(at 264.16 66.0399 0)
+			(at 251.46 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3827,7 +3827,7 @@
 			)
 		)
 		(property "Tolerance" "100%"
-			(at 264.16 68.5799 0)
+			(at 251.46 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3836,7 +3836,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 260.35 64.77 0)
+			(at 247.65 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3861,7 +3861,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 259.08 27.94 0)
+		(at 246.38 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3870,7 +3870,7 @@
 		(fields_autoplaced yes)
 		(uuid "aa7147ae-0b99-46c5-857a-17e361bfe2c4")
 		(property "Reference" "C5"
-			(at 262.89 25.7809 0)
+			(at 250.19 43.5609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3879,7 +3879,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 262.89 28.3209 0)
+			(at 250.19 46.1009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3887,8 +3887,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 260.0452 31.75 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 247.3452 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3897,7 +3897,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 259.08 27.94 0)
+			(at 246.38 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3906,7 +3906,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 259.08 27.94 0)
+			(at 246.38 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3915,7 +3915,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 259.08 27.94 0)
+			(at 246.38 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3966,7 +3966,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 160.782 147.32 90)
 			(effects
 				(font
@@ -4019,7 +4019,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:C")
-		(at 170.18 44.45 90)
+		(at 157.48 62.23 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4028,7 +4028,7 @@
 		(fields_autoplaced yes)
 		(uuid "c7d160f1-fbe6-469d-b296-bf62a4cb9722")
 		(property "Reference" "C2"
-			(at 170.18 31.75 90)
+			(at 157.48 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4036,15 +4036,15 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 170.18 34.29 90)
+			(at 157.48 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 181.61 43.4848 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 168.91 61.2648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4053,7 +4053,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 186.69 43.18 0)
+			(at 173.99 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4062,7 +4062,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 189.23 44.45 0)
+			(at 176.53 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4071,7 +4071,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-00000"
-			(at 184.15 44.45 0)
+			(at 171.45 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4080,7 +4080,7 @@
 			)
 		)
 		(property "Voltage" "1kV"
-			(at 170.18 36.83 90)
+			(at 157.48 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4088,7 +4088,7 @@
 			)
 		)
 		(property "Tolerance" "100%"
-			(at 170.18 39.37 90)
+			(at 157.48 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4096,7 +4096,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 170.18 44.45 0)
+			(at 157.48 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4121,7 +4121,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery")
-		(at 273.05 27.94 0)
+		(at 260.35 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4130,7 +4130,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc7a24cb-aa7f-4ec1-9a8c-7d66345a767a")
 		(property "Reference" "BT1"
-			(at 276.86 26.0984 0)
+			(at 264.16 43.8784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4139,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 276.86 28.6384 0)
+			(at 264.16 46.4184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4147,8 +4147,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 273.05 26.416 90)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 260.35 44.196 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4157,7 +4157,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 273.05 26.416 90)
+			(at 260.35 44.196 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4166,7 +4166,7 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
-			(at 273.05 27.94 0)
+			(at 260.35 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4191,7 +4191,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-LED:LED")
-		(at 173.99 66.04 0)
+		(at 161.29 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4200,7 +4200,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5f1ad5f-a969-477d-90c2-371e6d148ed7")
 		(property "Reference" "D1"
-			(at 172.4025 59.69 0)
+			(at 159.7025 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4208,15 +4208,15 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 172.4025 62.23 0)
+			(at 159.7025 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric"
-			(at 173.99 71.12 0)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 161.29 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4225,7 +4225,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.99 73.66 0)
+			(at 161.29 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4234,7 +4234,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 173.99 78.74 0)
+			(at 161.29 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4243,7 +4243,7 @@
 			)
 		)
 		(property "PROD_ID" "LED-"
-			(at 173.99 76.2 0)
+			(at 161.29 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4294,7 +4294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 260.35 133.35 0)
 			(effects
 				(font
@@ -4332,7 +4332,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 270.51 55.88 0)
+		(at 257.81 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4341,7 +4341,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc5507ad-a823-4d79-b48e-737c207772d6")
 		(property "Reference" "R7"
-			(at 273.05 54.6099 0)
+			(at 260.35 72.3899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4350,7 +4350,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 273.05 57.1499 0)
+			(at 260.35 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4358,8 +4358,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 268.732 55.88 90)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 256.032 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4368,7 +4368,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 270.51 55.88 0)
+			(at 257.81 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4377,7 +4377,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 270.51 55.88 0)
+			(at 257.81 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4386,7 +4386,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 270.51 55.88 0)
+			(at 257.81 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
